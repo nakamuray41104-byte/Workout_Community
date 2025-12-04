@@ -1,4 +1,4 @@
-# <!Workout Community>
+#Workout Community
 ## サイト概要
 ### サイトテーマ
 <筋トレ記録を共有するコミュニティサイト>
